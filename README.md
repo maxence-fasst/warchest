@@ -4,7 +4,7 @@ Règles de base
 Déroulement d'une partie
 ------------------------
 
-La partie se déroule en une succession de **"manches"** jusqu'à ce que l'un des joueurs ait placé ses 6 poins de contrôle
+La partie se déroule en une succession de **"manches"** jusqu'à ce que l'un des joueurs ait placé ses 6 points de contrôle
 
 **1 Manche =>** Chaque joueur pioche 3 jetons de son sac. Ces jetons sont ensuite joués à tour de rôle 
 **en commencant par le joueur ayant l'initiative**.
