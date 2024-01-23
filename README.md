@@ -40,6 +40,7 @@ differentes actions
       * **Attaquer**: Si une unité adverse se situe sur une case adjacente, l'unité en action peut l'attaquer et retirer un jeton
    de l'unité adverse (le jeton adverse est perdu)
       * **Tactique**: Utiliser la **tactique** précisée sur la carte de l'unité si les conditions nécéssaires sont remplies
+      * **(extension Noblesse) Décret**: Poser le jeton "Sceau Royal" face visible pour activer un des décrets (chaque décret ne peut être activé qu'une fois par joueur) 
 
 Quelques conseils pour débuter (situationnel)
 ---------------------------------------------
