@@ -36,7 +36,7 @@ differentes actions
       * **Se déplacer**: L'unité sur le plateau se déplace sur une case **libre**(non occupée par une autre unité) adjacente
       * **Contrôler un point**: Si l'unité correspondante se trouve sur un lieu à contrôler neutre ou adverse, elle place
       le lieu sous son contrôle (en plaçant un jeton de contrôle de sa faction sur le lieu / et en supprimant celui de l'adversaire
-      s'il le lieu était déjà contrôlé par ce dernier)
+   si le lieu était déjà contrôlé par ce dernier)
       * **Attaquer**: Si une unité adverse se situe sur une case adjacente, l'unité en action peut l'attaquer et retirer un jeton
    de l'unité adverse (le jeton adverse est perdu)
       * **Tactique**: Utiliser la **tactique** précisée sur la carte de l'unité si les conditions nécéssaires sont remplies
